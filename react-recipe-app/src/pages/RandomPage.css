@@ -1,0 +1,34 @@
+.random-page {
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+  }
+  
+  .random-page h1 {
+      font-style: italic;
+      padding-bottom: 50px;
+  }
+  
+  .random-page p {
+      font-style: italic;
+      font-family: cursive;
+  }
+  
+  .random-page button {
+      margin-top: 50px;
+      height: 50px;
+      width: 200px;
+      border-radius: 20px;
+      cursor: pointer;
+      font-style: italic;
+      font-weight: bold;
+      background-color: rgb(155, 240, 58);
+      margin-bottom: 100px;
+  }
+  
+  .random-page button:hover {
+      background-color: rgb(50, 236, 26);
+      transition: ease 1s;
+      transform: scale(1.2);
+  }

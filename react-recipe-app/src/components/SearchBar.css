@@ -1,0 +1,61 @@
+.search-bar {
+  width: 80%;
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.search-bar-area {
+  background-image: url(../assets/indian.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  border-radius: 30px;
+}
+
+.website-title {
+  color: white;
+}
+
+.search-bar-title {
+  color: antiquewhite;
+}
+
+.input-area {
+  border-radius: 15px;
+  height: 30px;
+  width: 500px;
+  border: solid white;
+  padding-left: 10px;
+}
+
+.search-btn {
+  border-radius: 15px;
+  height: 40px;
+  cursor: pointer;
+  transition: ease 0.5s;
+  width: 100px;
+  background-color: white;
+}
+
+.search-btn:hover {
+  background-color: rgb(154, 255, 39);
+}
+
+@media only screen and (max-width: 800px) {
+  .input-area {
+    width: 300px;
+  }
+}
+
+@media only screen and (max-width: 550px) {
+  .search-input {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .search-btn {
+    margin-top: 10px;
+  }
+}

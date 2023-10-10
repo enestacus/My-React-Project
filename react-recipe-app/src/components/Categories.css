@@ -1,0 +1,89 @@
+.category-title {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.category-box {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.img {
+  width: 50px;
+  background: no-repeat 50% 50%;
+  background-size: cover;
+  height: 50px;
+}
+
+.category-btn {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  cursor: pointer;
+  background-color: white;
+  border: solid rgb(10, 233, 10);
+  opacity: 0.8;
+}
+
+.category-btn:hover {
+  background-color: rgb(127, 187, 59);
+  transform: scale(1.2);
+  color: white;
+  font-weight: bold;
+  transition: ease 0.8s;
+}
+
+.cuisine-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 80%;
+  margin: auto;
+  padding-left: 0;
+}
+
+.cuisine-list li {
+  text-align: center;
+  cursor: pointer;
+  list-style: none;
+  text-decoration: none;
+  width: 300px;
+  margin: 20px;
+}
+
+.cuisine-list li img {
+  border-radius: 20px;
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.cuisine-list li img:hover {
+  transform: scale(1.2);
+}
+
+.cuisine-list li p {
+  width: 350;
+  text-decoration: none;
+}
+
+.select-cuisine-line {
+  text-align: center;
+  margin-top: 50px;
+  font-style: italic;
+}
+
+.categories-title {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.categories-loading {
+  text-align: center;
+}

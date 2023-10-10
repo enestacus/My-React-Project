@@ -1,0 +1,48 @@
+.recipe-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 80%;
+  margin: auto;
+  padding-left: 0;
+}
+
+.recipe-list li {
+  text-align: center;
+  cursor: pointer;
+  list-style: none;
+  margin: 20px;
+}
+
+.recipe-list li img {
+  border-radius: 20px;
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.recipe-list li img:hover {
+  transform: scale(1.2);
+}
+
+.recipe-list li p {
+  width: 350;
+  text-decoration: none;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.message-line {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  padding-bottom: 50px;
+}
+
+.message-line-loading {
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 50px;
+}

@@ -1,0 +1,18 @@
+.NavBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(127, 187, 59);
+  height: 40px;
+}
+
+.link {
+  color: antiquewhite;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.link:hover {
+    transition: ease 1s;
+    color: black;
+}
