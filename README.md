@@ -1,31 +1,34 @@
 # My-React-Project
 
-## Live Version
-
-The link to Hunger Fighter is: [HungerFighter](https://hunger-fighter.netlify.app/)
-
 ## Pages
 
 HomePage
 
 ![homepage](https://github.com/enestacus/My-React-Project/assets/132651054/b7f781a6-8ffd-42c5-9613-e53c551f595f)
 
+***
 
 AboutPage
 
 ![aboutpage](https://github.com/enestacus/My-React-Project/assets/132651054/7f738fa1-98c4-4052-a3e9-4313eeb33c04)
 
+***
 
 CategoriesPage
 
 ![categoriespage](https://github.com/enestacus/My-React-Project/assets/132651054/e1f950b0-e2da-48a1-a4b3-c2e5b7a3a63c)
+***
 ![categoriesresultpage](https://github.com/enestacus/My-React-Project/assets/132651054/21182899-1459-41b4-9dce-2ca564a12d95)
 
+***
 
 GetChefsAdvice
 
 ![chefsadvice](https://github.com/enestacus/My-React-Project/assets/132651054/8b76d57d-cf6c-4274-a78b-3f45eb66b5a3)
+***
 ![recipedetails](https://github.com/enestacus/My-React-Project/assets/132651054/1575f9d1-b913-4cef-aaf5-15e59a2d6ce2)
+
+***
 
 ## What is Hunger Fighter?
 
